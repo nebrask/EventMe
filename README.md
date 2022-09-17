@@ -5,7 +5,7 @@ It gets harder and harder to decide what to do for fun when the weather warms up
 
 ## Plans for the future
 
-- processing local weather data and recommending weather-dependent events 
+- Processing local weather data and recommending weather-dependent events 
 - Improving UI
 - Recommend events based on user's interest
 - Adding a filtering system for specific events
